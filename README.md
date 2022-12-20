@@ -7,5 +7,5 @@ The first assignment was about creating the classes and adding all of the needed
 ## Second Assignment
 The second assignment was aboout designing the game logic and the core Implementaion of the game.
 
-#Third Assignment
+## Third Assignment
 The third assignment was about creating the GUI without using Java-UI libraries
